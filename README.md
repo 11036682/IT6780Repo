@@ -10,22 +10,18 @@
 ## Installation
 1. Clone the repository:
 
-'''      
-git clone https://github.com/yourusername/recipe-hub.git
-'''
-   2. Navigate to the project directory:
+'''git clone https://github.com/yourusername/recipe-hub.git'''
 
-'''
-cd recipe-hub
-'''
-   3. Install dependencies:
+2. Navigate to the project directory:
 
-'''
-npm install
-'''
-   4. Start the development server:
+'''cd recipe-hub'''
 
-'''
-npm start
-'''
-   5. The application will be running on `http://localhost:3000`.
+3. Install dependencies:
+
+'''npm install'''
+
+4. Start the development server:
+
+'''npm start'''
+
+5. The application will be running on `http://localhost:3000`.
