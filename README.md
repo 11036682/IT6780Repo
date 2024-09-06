@@ -55,3 +55,15 @@ We welcome contributions to Recipe Hub! To contribute:
 5. Open a pull request.
 
 Please make sure your code adheres to our coding standards and includes relevant tests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+ ## Acknowledgments
+
+- Thanks to the amazing contributor who made this project possible, myself, Weston Knowlton.
+- Inspiration from various recipe websites and cooking blogs.
+- Special thanks to the open-source community for providing great tools and libraries.
+- This project is designed and developed for my IT 6780 Course at Utah Valley University. 
+- The Professor for this course is Dr. Kodey S. Crandall.
